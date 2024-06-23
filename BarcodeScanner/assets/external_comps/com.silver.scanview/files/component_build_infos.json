@@ -1,0 +1,1 @@
+[{"assets":[],"native":[],"permissions":["android.permission.VIBRATE","android.permission.CAMERA"],"activities":[],"broadcastReceivers":[],"broadcastReceiver":[],"libraries":[],"type":"com.silver.scanview.ScanView","androidMinSdk":["7"]}]

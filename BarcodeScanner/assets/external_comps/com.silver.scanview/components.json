@@ -1,0 +1,194 @@
+[{
+ "categoryString": "EXTENSION",
+ "dateBuilt": "2020-12-06T12:25:49-0800",
+ "nonVisible": "true",
+ "iconName": "data:image/png;base64,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",
+ "methods": [
+  {
+   "deprecated": "false",
+   "name": "EnableLaser",
+   "description": "boolean value to show or hide the ViewFinder Laser",
+   "params": [{
+    "name": "value",
+    "type": "boolean"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "ImageReadResult",
+   "description": "Returns the selected image Scan Result - String -.",
+   "params": [{
+    "name": "imgPath",
+    "type": "text"
+   }],
+   "returnType": "text"
+  },
+  {
+   "deprecated": "false",
+   "name": "SelectCamera",
+   "description": "Select The Active Scanning Camera - integer - : Front Facing Camera = 2, Back Facing Camera = 1",
+   "params": [{
+    "name": "cameraId",
+    "type": "number"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "SetAspectTolerance",
+   "description": "float value from 0.1f to 1.0f, set to 0.5 for some HUAWEI phones to work as it should be!",
+   "params": [{
+    "name": "value",
+    "type": "number"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "SetBorderColor",
+   "description": "(example: #ffffffff ) a 4 byte HEX value , ARGB value to set ViewFinder stroke color where A is Alpha and R is Red and G is Green and B is blue!",
+   "params": [{
+    "name": "value",
+    "type": "text"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "SetBorderCornerRadius",
+   "description": "integer value to set the ViewFinder border corner radius",
+   "params": [{
+    "name": "value",
+    "type": "number"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "SetBorderLineLength",
+   "description": "integer value to set the ViewFinder border line length",
+   "params": [{
+    "name": "value",
+    "type": "number"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "SetBorderStrokeWidth",
+   "description": "integer value to set the ViewFinder border stroke width",
+   "params": [{
+    "name": "value",
+    "type": "number"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "SetLaserColor",
+   "description": "(example: #ffffffff ) a 4 byte HEX value , ARGB value to set the ScanView ViewFinder Laser color where A is Alpha and R is Red and G is Green and B is blue!",
+   "params": [{
+    "name": "value",
+    "type": "text"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "SetMaskColor",
+   "description": "(example: #ffffffff ) a 4 byte HEX value , ARGB value to set the ScanView background color",
+   "params": [{
+    "name": "value",
+    "type": "text"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "SetScanView",
+   "description": "Initialize The Scanner View",
+   "params": [{
+    "name": "arrangement",
+    "type": "component"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "StartScan",
+   "description": "Start Scanning Using The Selected Camera",
+   "params": []
+  },
+  {
+   "deprecated": "false",
+   "name": "StopScan",
+   "description": "Stop Scanning and Release The Selected Camera",
+   "params": []
+  },
+  {
+   "deprecated": "false",
+   "name": "ToggleFlash",
+   "description": "Flash ON, Flash OFF",
+   "params": []
+  }
+ ],
+ "blockProperties": [
+  {
+   "rw": "write-only",
+   "deprecated": "false",
+   "name": "DuplicateScans",
+   "description": "boolean : Prevent Duplicate Scans = true, Do Not Prevent Duplicate Scans=false",
+   "type": "boolean"
+  },
+  {
+   "rw": "write-only",
+   "deprecated": "false",
+   "name": "EnableAutoFocus",
+   "description": "boolean : Enable autofocus = true, Disable Autofocus = false",
+   "type": "boolean"
+  },
+  {
+   "rw": "write-only",
+   "deprecated": "false",
+   "name": "EnableBeeb",
+   "description": "Enable Beep When Scan Is Finishid - boolean - : enable beep=true, disable beep=false",
+   "type": "boolean"
+  },
+  {
+   "rw": "write-only",
+   "deprecated": "false",
+   "name": "EnableVibration",
+   "description": "boolean : Enable Vibration When Scan Is Finishid - boolean - : enable vibration=true, disable vibration=false",
+   "type": "boolean"
+  },
+  {
+   "rw": "read-only",
+   "deprecated": "false",
+   "name": "ScanResult",
+   "description": "Last Scanned Result",
+   "type": "text"
+  },
+  {
+   "rw": "write-only",
+   "deprecated": "false",
+   "name": "SetVibrationTime",
+   "description": "integer value : Set Scan Vibration Duration in Milli Seconds - Maximum Value is Set to 1000ms and Minimum Value is Set to 200ms-",
+   "type": "number"
+  }
+ ],
+ "helpUrl": "",
+ "type": "com.silver.scanview.ScanView",
+ "androidMinSdk": 7,
+ "version": "2",
+ "external": "true",
+ "showOnPalette": "true",
+ "name": "ScanView",
+ "helpString": "ScanView 2.1, is an extension to scan barcodes based on Zxing (Zebra Crossing) Library for Android.<br><br> \n Silver 2020 \n I used code from: https://github.com/dm77/barcodescanner",
+ "properties": [],
+ "events": [{
+  "deprecated": "false",
+  "name": "AfterScan",
+  "description": "When Scan Is Finishid",
+  "params": [
+   {
+    "name": "result",
+    "type": "text"
+   },
+   {
+    "name": "format",
+    "type": "text"
+   }
+  ]
+ }]
+}]
